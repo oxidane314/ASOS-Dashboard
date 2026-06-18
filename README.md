@@ -1,12 +1,30 @@
 # ASOS Inventory Analytics Dashboard
 
 An interactive analytics dashboard built using Python, Pandas, Plotly, and Streamlit to analyze ASOS product inventory and identify revenue losses caused by stockouts.
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-brightgreen)](https://asos-dashboard.streamlit.app/)
 
 ## Overview
 
 Fashion e-commerce platforms often lose potential revenue when popular products go out of stock. This project analyzes ASOS product data to estimate stockout-driven revenue loss and identify brands that may require better inventory planning.
 
 The dashboard transforms raw product listings into actionable business insights through data cleaning, feature engineering, and interactive visualizations.
+
+## Dashboard Preview
+
+### Overview
+
+![Dashboard Overview](screenshots/Dashboard.png)
+
+### Stockout Analysis
+
+![Stockout Analysis](screenshots/stockout.png)
+
+### Product Ranking
+
+![Product Ranking](screenshots/topproducts.png)
+
+## Strategy Maps
+![Strategy Maps](screenshots/Strategymaps.png)
 
 ## Features
 
